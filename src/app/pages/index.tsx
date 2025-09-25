@@ -1,12 +1,12 @@
-import Card from "../components/widgets/Card";
-import Button from "../components/widgets/Button";
-import Heading from "../components/widgets/Heading";
-import Paragraph from "../components/widgets/Paragraph";
-import Alert from "../components/widgets/Alert";
-import Tabs from "../components/widgets/Tabs";
-import Table from "../components/widgets/Table";
-import Modal from "../components/widgets/Modal";
-import Form from "../components/widgets/Form";
+import Card from "../../components/ui/Card";
+import Button from "../../components/ui/Button";
+import Heading from "../../components/ui/Heading";
+import Paragraph from "../../components/ui/Paragraph";
+import Alert from "../../components/ui/Alert";
+import Tabs from "../../components/ui/Tabs";
+import Table from "../../components/ui/Table";
+import Modal from "../../components/ui/Modal";
+import Form from "../../components/ui/Form";
 import Link from "next/link";
 
 export default function Home() {

@@ -1,5 +1,5 @@
-import Heading from "../components/widgets/Heading";
-import Paragraph from "../components/widgets/Paragraph";
+import Heading from "../../components/ui/Heading";
+import Paragraph from "../../components/ui/Paragraph";
 
 export default function About() {
   return (
